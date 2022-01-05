@@ -1,0 +1,13 @@
+#!/bin/bash
+echo 'final stage'
+#sudo rm -rf /var/www/html/build
+echo '========='
+cd /home/charles/server/
+git clone 'https://
+mkdir eatass
+#sudo ls /var/www/html
+#sudo cp -r /home/charles/server/wikifront/build /var/www/html/build
+cd /var/www/html
+#sudo pm2 stop all
+#sudo pm2 serve --spa build 5000
+echo 'final stage done'
